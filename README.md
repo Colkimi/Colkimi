@@ -2,7 +2,7 @@
 - 👀 I’m interested in system development especially in writing codes
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on creating apps,games and all sort of systems
-- 📫 How to reach me--my phone number is +254726075980 for whatsapp only and +254789471918 or at colkimib@gmail.com
+- 📫 How to reach me----colkimib@gmail.com
 
 <!---
 Colkimi/Colkimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
