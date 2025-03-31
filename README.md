@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=700&color=F7B93E&center=true&vCenter=true&width=600&lines=👋+HELLO+THERE+GENIUSES!;🔥+I'M+COLKIMI!;💻+SOFTWARE+DEVELOPER;🛡️+CYBERSECURITY+ENTHUSIAST;🐞+BUG+BOUNTY+HUNTER;🚀+ALWAYS+LEARNING+AND+HACKING!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=700&color=F7B93E&center=true&vCenter=true&width=600&lines=👋+HELLO+THERE!;🔥+I'M+COLKIMI!;💻+SOFTWARE+DEVELOPER;🛡️+CYBERSECURITY+ENTHUSIAST;🐞+BUG+BOUNTY+HUNTER;🚀+ALWAYS+LEARNING+AND+HACKING!">
 </a>
 
 </h1>
@@ -60,7 +60,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colkimi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
