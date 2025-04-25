@@ -14,7 +14,7 @@
 
 <div align="center">
  
- 🔭 I work as a **cybersecurity freelancer**
+ 🔭 I work as a **cybersecurity SOC analyst specialized in network security**
  
  🌱 I’m currently learning **Python, ML for cybersec, Bug_bounty hunting and e-hacking**
 
