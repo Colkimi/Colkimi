@@ -20,7 +20,7 @@
 
 💬 Ask me all about **exploitation, vulnerability analysis, scripting, creating payloads... or anything [here](https://github.com/Colkimi/Colkimi/issues)**
 
-⚡ Fun fact ** By 2025, cybercrime is projected to inflict a staggering $10.5 trillion in damages globally**
+⚡ Fun fact ** By 2025, cybercrime is projected to inflict a staggering $10.5 trillion in damages globally I might just be involved in half**
 
  </div>
  
