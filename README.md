@@ -37,10 +37,47 @@
 </div>
 
  <hr/>
- 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" /></div>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JS"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" alt="Redux"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/jest-icon.svg" width="65" height="65" alt="Jest"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65" alt="GraphQL"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="NGINX"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TS"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/rescript-icon.svg" width="65" height="65" alt="ReScript"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/sass-icon.svg" width="65" height="65" alt="Sass"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/gatsby-icon.svg" width="65" height="65" alt="Gatsby"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="65" height="65" alt="Webpack"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="65" height="65" alt="Prettier"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/eslint-icon.svg" width="65" height="65" alt="ESLint"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="65" height="65" alt="Raspberry Pi"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" alt="K8s"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" width="65" height="65" alt="Testing Library"/></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 <br/>
 <hr/>
