@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=5&color=F7B93E&center=true&vCenter=true&width=600&lines=🔥+I'M+COLKIMI!;🛡️+Red+teamer;🚀+ALWAYS+HACKING!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=60000&color=F7B93E&center=true&vCenter=true&width=600&lines=%F0%9F%94%A5COLKIMI!" alt="Typing SVG" />
 </a>
 
 </h1>
@@ -17,9 +17,6 @@
  🔭 I work as a **cybersecurity analyst specialized in offensive security**
  
  🌱 Certified in **nse3, qradar, linux etc**
-
-⚡ Fun fact **By 2030, ravequa will eradicate rsa**
-
  </div>
  
 <div align="center"> 
